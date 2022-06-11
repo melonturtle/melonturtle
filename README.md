@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+╭(･ㅁ･)وㅤ💻ㅤ☕️
+
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jamjoa)](https://solved.ac/profile/jamjoa)
+[![Badge](https://cp-logo.vercel.app/codeforces/gyul)](https://codeforces.com/profile/gyul)
+
+[![ggyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldggyul&show_icons=true&count_private=true&theme=great-gatsby)](https://github.com/goldggyul/github-readme-stats)
