@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 🏫 건국대학교 컴퓨터공학부 `2019.03 ~ 2024.02`  
 💼 Action Square Dev | Game Client Programmer `2021.12 ~ 2022.02`  
 📚 UMC 동아리 2기 | Server (Spring) `2022.03 ~ 2022.08`  
-💼 Google Korea | Software Engineering Intern `2023.06 ~ 2023.09`  
+💼 Google Korea | Software Engineer Intern with Wear OS ⌚️ `2023.06 ~ 2023.09`  
 
