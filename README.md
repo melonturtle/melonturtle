@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jamjoa)](https://solved.ac/profile/jamjoa)
-[![Badge](https://cp-logo.vercel.app/codeforces/gyul)](https://codeforces.com/profile/gyul)
 
 #### Currently interested in...
 
