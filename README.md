@@ -1,4 +1,4 @@
-## Hyeonjung Kim 🍊
+## Hyeonjung Kim
 
 <!--
 **goldggyul/goldggyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jamjoa)](https://solved.ac/profile/jamjoa)
 [![Badge](https://cp-logo.vercel.app/codeforces/gyul)](https://codeforces.com/profile/gyul)
-
-![Hyeonjung Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldggyul&show_icons=true&theme=solarized-light&hide=stars&hide_title=true)
-
 
 #### Currently interested in...
 
