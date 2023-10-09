@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jamjoa)](https://solved.ac/profile/jamjoa)
 
-#### Currently interested in...
-
-🤔
-
 #### Experience
 🏫 건국대학교 컴퓨터공학부 `2019.03 ~ 2024.02`  
 💼 Action Square Dev | Game Client Programmer `2021.12 ~ 2022.02`  
